@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+/public
+/uploads
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# Ignore environment files
+.env
